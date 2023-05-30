@@ -406,6 +406,6 @@ Data-data yang digunakan dalam aplikasi e-Commerce ini akan disimpan pada **Data
 ### **DELETE**
 - Menghapus data user dengan id 7 pada tabel users <br/>
 
-![Delete](/img/2.png"Delete")
+![Delete](/img/2.png "Delete")
 
 <br/>
